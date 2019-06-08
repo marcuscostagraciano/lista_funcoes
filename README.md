@@ -6,10 +6,11 @@ Alunos: Marcus Vinícius da Costa Graciano - 2info3
 - [x] Exercício 2
 - [x] Exercício 3
 - [x] Exercício 4
-- [ ] Exercício 5
-- [ ] Exercício 6
-- [ ] Exercício 7
-- [ ] Exercício 8
-- [ ] Exercício 9
-- [ ] Exercício 10
-- [ ] Exercício 11
+- [x] Exercício 5
+- [x] Exercício 6
+- [x] Exercício 7
+- [x] Exercício 8
+- [x] Exercício 9
+- [x] Exercício 10
+  - [x] Exercício 10 array version
+- [x] Exercício 11
