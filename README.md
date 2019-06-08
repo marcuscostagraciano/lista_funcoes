@@ -12,5 +12,5 @@ Alunos: Marcus Vinícius da Costa Graciano - 2info3
 - [x] Exercício 8
 - [x] Exercício 9
 - [x] Exercício 10
-  - [x] Exercício 10 array version
+  - [x] Exercício 10 - array version
 - [x] Exercício 11
